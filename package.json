@@ -1,0 +1,31 @@
+{
+    "author": "rachel.li.325@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "watchface-2-with-battery-percentage",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "watchface 2 with battery percentage",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/battery icon.png",
+                    "name": "BATTERY_ICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "uuid": "03bfddd7-70d6-4949-819a-84a86b74c6b1",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
